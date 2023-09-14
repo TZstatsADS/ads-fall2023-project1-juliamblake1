@@ -9,10 +9,14 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What makes men and women happy?
++ This project is conducted by Julia Blake
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In a world constantly bustling with activity and marked by a never-ending pursuit of success and fulfillment, there's one elusive treasure that stands above all else: happiness. What is happiness, and how do we find it? This timeless question has intrigued philosophers, psychologists, and ordinary individuals alike for centuries. It's a quest that transcends cultural boundaries and societal norms, and it's a journey that we embark upon from the moment we're born.
+
+But what exactly is the essence of happiness? Is it found in material wealth, in relationships, or in the pursuit of personal goals and dreams? Can it be quantified and measured, or is it a subjective and ever-changing state of mind?
+
+We will try to dive a bit deeper into what makes us happy and how the answer to that question varies for different groups of people. Perhaps some of the conclusions we are able to form can guide us as we stive to live healthier and happier lives in this ever-changing and challenging world.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
